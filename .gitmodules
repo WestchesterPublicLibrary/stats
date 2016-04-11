@@ -1,0 +1,3 @@
+[submodule "Blaze-Base"]
+	path = Blaze-Base
+	url = https://github.com/leveluptuts/Blaze-Base.git
