@@ -4,3 +4,4 @@ client/accounts/*
 
 settings.json
 mup.json
+node_modules

@@ -5,6 +5,20 @@
     "start": "meteor run"
   },
   "dependencies": {
-    "meteor-node-stubs": "~0.2.0"
-  }
+    "meteor-node-stubs": "~0.2.0",
+    "moment": "^2.12.0"
+  },
+  "description": "",
+  "version": "1.0.0",
+  "main": "routes.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WestchesterPublicLibrary/stats.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WestchesterPublicLibrary/stats/issues"
+  },
+  "homepage": "https://github.com/WestchesterPublicLibrary/stats#readme"
 }
